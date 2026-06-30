@@ -1,2 +1,2 @@
 # Data-Analytics
-This Repo is for Data Science related projects
+This Repo is for Data Science and Analytics projects
